@@ -1,0 +1,58 @@
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Successfully Saving to path/to/xlmr/translation/NER/ru/test.xlmr | Examples: 19900 -> 19900 | Exceeding Max Length: 0
+Successfully Saving to path/to/xlmr/translation/NER/ru/test.xlmr.idx | Examples: 19900 -> 19900 | Exceeding Max Length: 0
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT//ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Successfully Saving to path/to/xlmr/translation/NER//test.xlmr | Examples: 9933 -> 9933 | Exceeding Max Length: 0
+Successfully Saving to path/to/xlmr/translation/NER//test.xlmr.idx | Examples: 9933 -> 9933 | Exceeding Max Length: 0
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Successfully Saving to path/to/xlmr/translation/NER//test.xlmr | Examples: 3 -> 3 | Exceeding Max Length: 0
+Successfully Saving to path/to/xlmr/translation/NER//test.xlmr.idx | Examples: 3 -> 3 | Exceeding Max Length: 0
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Successfully Saving to path/to/xlmr/translation/NER//test.xlmr | Examples: 10003 -> 10003 | Exceeding Max Length: 0
+Successfully Saving to path/to/xlmr/translation/NER//test.xlmr.idx | Examples: 10003 -> 10003 | Exceeding Max Length: 0
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Successfully Saving to path/to/xlmr/translation/NER//test.xlmr | Examples: 9993 -> 9993 | Exceeding Max Length: 0
+Successfully Saving to path/to/xlmr/translation/NER//test.xlmr.idx | Examples: 9993 -> 9993 | Exceeding Max Length: 0
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Successfully Saving to path/to/xlmr/translation/NER/ru/test.xlmr | Examples: 9993 -> 9993 | Exceeding Max Length: 0
+Successfully Saving to path/to/xlmr/translation/NER/ru/test.xlmr.idx | Examples: 9993 -> 9993 | Exceeding Max Length: 0
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Successfully Saving to path/to/xlmr/translation/NER/ru/test.xlmr | Examples: 10000 -> 10000 | Exceeding Max Length: 0
+Successfully Saving to path/to/xlmr/translation/NER/ru/test.xlmr.idx | Examples: 10000 -> 10000 | Exceeding Max Length: 0
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Successfully Saving to path/to/xlmr/translation/NER/ru/test.xlmr | Examples: 20000 -> 20000 | Exceeding Max Length: 0
+Successfully Saving to path/to/xlmr/translation/NER/ru/test.xlmr.idx | Examples: 20000 -> 20000 | Exceeding Max Length: 0
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Successfully Saving to path/to/xlmr/translation/NER/ru/test.xlmr | Examples: 20000 -> 20000 | Exceeding Max Length: 0
+Successfully Saving to path/to/xlmr/translation/NER/ru/test.xlmr.idx | Examples: 20000 -> 20000 | Exceeding Max Length: 0
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Successfully Saving to path/to/xlmr/translation/NER/ru/test.xlmr | Examples: 19909 -> 19909 | Exceeding Max Length: 0
+Successfully Saving to path/to/xlmr/translation/NER/ru/test.xlmr.idx | Examples: 19909 -> 19909 | Exceeding Max Length: 0
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Successfully Saving to path/to/xlmr/translation/NER/en/test.xlmr | Examples: 19909 -> 19909 | Exceeding Max Length: 0
+Successfully Saving to path/to/xlmr/translation/NER/en/test.xlmr.idx | Examples: 19909 -> 19909 | Exceeding Max Length: 0
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Successfully Saving to path/to/xlmr/translation/NER/en/test.xlmr | Examples: 20000 -> 20000 | Exceeding Max Length: 0
+Successfully Saving to path/to/xlmr/translation/NER/en/test.xlmr.idx | Examples: 20000 -> 20000 | Exceeding Max Length: 0
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Successfully Saving to path/to/xlmr/translation/NER/en/test.xlmr | Examples: 19992 -> 19992 | Exceeding Max Length: 0
+Successfully Saving to path/to/xlmr/translation/NER/en/test.xlmr.idx | Examples: 19992 -> 19992 | Exceeding Max Length: 0
+Loading data from path/to/xlmr/translation/BT/ru0000.2en
+Successfully Saving to path/to/xlmr/translation/NER/en/test.xlmr | Examples: 20000 -> 20000 | Exceeding Max Length: 0
+Successfully Saving to path/to/xlmr/translation/NER/en/test.xlmr.idx | Examples: 20000 -> 20000 | Exceeding Max Length: 0

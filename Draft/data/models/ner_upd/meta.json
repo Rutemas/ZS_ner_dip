@@ -1,0 +1,50 @@
+{
+  "lang":"en",
+  "name":"ner_upd",
+  "version":"0.0.0",
+  "spacy_version":">=3.7.2,<3.8.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"a89eae928",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "attribute_ruler":[
+
+    ],
+    "ner":[
+      "B-LOC",
+      "B-MISC",
+      "B-ORG",
+      "B-PER",
+      "I-LOC",
+      "I-MISC",
+      "I-ORG",
+      "I-PER"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "attribute_ruler",
+    "ner"
+  ],
+  "components":[
+    "tok2vec",
+    "attribute_ruler",
+    "ner"
+  ],
+  "disabled":[
+
+  ]
+}
