@@ -9,10 +9,10 @@
 
 ## Окружение 
 
-* Python: >= 3.6
+* Python: >= 3.7
 * [PyTorch](http://pytorch.org/): >= 1.5.0
 * NVIDIA GPUs and [NCCL](https://github.com/NVIDIA/nccl)
-* [apex](https://github.com/NVIDIA/apex): >= 0.1
+* [apex](https://github.com/NVIDIA/apex): >= 0.1 ТОЛЬКО ДЛЯ ОБУЧЕНИЯ
 * [Fairseq](https://github.com/pytorch/fairseq)*: 1.0.0
 
 \* - устанавливается из папки m2m командой pip install --editable ./
@@ -79,7 +79,7 @@ bash ./pipeline/step5_prepare_src_translation_data.sh
 
 6. Маркированный перевод на целевой язык
 
-(use the Insert-based Translation Model)
+(Для воспроизведение необходимо использовать m2m_checkpoint_insert_avg_41_60.pt или иную обученную использовать проекцию)
 
 ```bash
 bash ./pipeline/step6_labeled_transation.sh
