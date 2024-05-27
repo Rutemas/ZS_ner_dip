@@ -1,5 +1,5 @@
 # ZS_ner_dip
-Эта работа основана на CROP Zero-shot Cross-lingual Named Entity Recognition with Multilingual Labeled Sequence Translation
+Эта работа основана на CROP Zero-shot Cross-lingual Named Entity Recognition with Multilingual Labeled Sequence Translation с некоторыми модификациями
 
 
 ## Данные
